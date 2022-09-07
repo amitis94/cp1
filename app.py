@@ -41,3 +41,4 @@ if __name__ == '__main__':
 # uvicorn app:app --reload
 ## 위 명령어에서 처음 언급된 app은 파일 app.py의 app
 ## 마지막 app은 app.py에 있는 객체 app = FastAPI()
+#1
